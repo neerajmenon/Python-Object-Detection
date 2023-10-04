@@ -1,0 +1,7 @@
+__pycache__/
+escooter/
+vru/
+*.zip
+google_colab_config.yaml
+1280map.png
+python3-tk_3.9.2-1_arm64.deb
